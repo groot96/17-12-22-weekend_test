@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+  font-family: "Inter";
+  font-style: normal;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+}
+
+.heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+header {
+  position: sticky;
+  top: 2px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  background-color: black;
+  height: 60px;
+}
+
+.menu {
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+  color: white;
+  margin: auto 12px;
+}
+
+ul a {
+  font-family: "Inter";
+  margin: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.company {
+  font-family: "Inter";
+  margin: 12px;
+  color: white;
+  align-items: center;
+  font-size: 24px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-page {
+  width: 100%;
+}
+
+.intro-img {
+  width: 729px;
+}
+
+.learn-btn {
+  width: 129px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.img-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.title-img {
+  font-size: 64px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.company-intro {
+  width: 98%;
+  margin: auto;
+  display: flex;
+}
+
+.img-flower {
+  width: 500px;
+  height: 447.57px;
+}
